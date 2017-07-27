@@ -1,3 +1,8 @@
-# Learning Haskell
+# Haskell Fizzbuzz
 
-Some short snippets for learning Haskell concepts.
+Uses [stack](https://docs.haskellstack.org/en/stable/README/)
+
+```sh
+stack build
+stack exec learning-exe
+```
